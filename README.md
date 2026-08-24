@@ -223,17 +223,3 @@ Answer in user's language
 - [ ] Web dashboard for document management
 
 ---
-
-## 👨‍💻 Author
-
-**Alimpan Mukherjee**  
-B.Tech CSE | KIIT University (Batch 2027)  
-AI/ML Engineer
-
-[![GitHub](https://img.shields.io/badge/GitHub-AlimpanMukherjee-black?logo=github)](https://github.com/AlimpanMukherjee)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
