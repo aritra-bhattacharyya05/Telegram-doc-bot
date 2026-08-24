@@ -1,0 +1,24 @@
+# python-telegram-bot==20.7
+# groq
+# PyMuPDF
+# pytesseract
+# Pillow
+# langchain
+# langchain-community
+# faiss-cpu
+# sentence-transformers
+# python-dotenv
+
+python-telegram-bot==20.7
+groq
+PyMuPDF
+pytesseract
+Pillow
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+python-dotenv
+huggingface-hub
+pydub
+langchain-text-splitters
